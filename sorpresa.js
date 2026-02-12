@@ -1,4 +1,4 @@
-const questionText = "Amor, Quéres ser mi San Valentín?";
+const questionText = "Quéres ser mi San Valentín?";
 const questionElement = document.getElementById("question");
 const yesBtn = document.getElementById("yesBtn");
 const noBtn = document.getElementById("noBtn");
@@ -70,3 +70,4 @@ function drawParticles() {
 }
 
 drawParticles();
+
